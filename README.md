@@ -81,8 +81,5 @@ I'm a passionate developer driven by Full Stack Web Development, Cloud and DevOp
 ## Let's Connect
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-prasad/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PRINCE__PRASAD)
-<<<<<<< HEAD
 [![github](https://img.shields.io/badge/github-3d4653?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRINCE-PRASAD)
 =======
-[![github](https://img.shields.io/badge/github-3d4653?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRINCE-PRASAD)
->>>>>>> b7453e6d11a65e0e2c1e37ce143beb40e35bb2aa
