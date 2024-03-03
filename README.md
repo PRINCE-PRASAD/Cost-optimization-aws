@@ -74,8 +74,11 @@ Here is the video link demonstrating the completion of the task: [Video Link](ht
 
 Make sure to thoroughly test the Lambda function in a staging environment before deploying it to production. Deleting snapshots irreversibly removes backup data, so use caution and ensure that only unnecessary snapshots are deleted.
 
-## Author
+## About Me
 
-Prince Prasad
+I'm a passionate developer driven by Full Stack Web Development, Cloud and DevOps Technologies, and solving problems through software innovation. Let's connect!
 
-Email: princekumar20000@gmail.com
+## Let's Connect
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-prasad/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PRINCE__PRASAD)
+[![github](https://img.shields.io/badge/github-3d4653?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PRINCE-PRASAD)
